@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
+## makeCacheMatrix creates a list with four differents parameters: set - a
 ## functions do
 
-## Write a short comment describing this function
+## makeCacheMatrix creates a list with four differents parameters: set - insert NULL in i; get - insert the matrix in get;
+## setinverse - insert inverse in i; getinverse - get inversed matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
